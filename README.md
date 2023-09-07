@@ -38,7 +38,7 @@ Our purpose is to lay the baseline of Pi in the sky. We are creating a countdown
 
 ### Evidence 
 
-<img src= "![Screenshot 2023-09-07 102225](https://github.com/dhalber11/Engineering_4_Notebook/assets/113122357/551b4867-9bc9-444a-9c25-2ef04950ca29)" width= "400">
+< img src= "![Screenshot 2023-09-07 102225](https://github.com/dhalber11/Engineering_4_Notebook/assets/113122357/551b4867-9bc9-444a-9c25-2ef04950ca29)" width= "400" >
 ##### The image above shows the entire sequence of counting down from 10 to LIFTOFF. 
 
 ### Wiring
