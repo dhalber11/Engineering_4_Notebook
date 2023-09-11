@@ -10,29 +10,6 @@
 
 # Raspberry_Pi_Assignments
 
-## Launch Pad Part 2
-
-### **Assignment Description**
-
-For this assignment we are told to add two LEDs to the previous assignment. Simply a red LED that blinks as the timer is counting down. Then a green LED that turns on and stays on once the countdown reaches zero. 
-### **Evidence** 
-
-<img src="https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/ezgif-1-launchpad2.gif?raw=true" width="300">
-
-##### This shows the full countdown process
-
-### **Wiring**
-
-This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
-
-### **Code**
-Give me a link to your code. [Something like this](https://github.com/millerm22/Engineering_4_Notebook/blob/main/Raspberry_Pi/hello_world.py). Don't make me hunt through your folders, give me a nice link to click to take me there! Remember to **COMMENT YOUR CODE** if you want full credit. 
-
-### **Reflection**
-
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
-
-
 ## Launch Pad Part 1
 
 ### **Assignment Description**
@@ -55,6 +32,32 @@ For a link to the **commented code** [click here](https://github.com/dhalber11/E
 ### **Reflection**
 This was a very simple and easy first assignment. Bringing in elements of what I had learned in previous years and simply a refresher on how to use variables and count down. There are many different ways to code this assignment and this is just one of them. 
 &nbsp;
+
+
+
+## Launch Pad Part 2
+
+### **Assignment Description**
+
+For this assignment we are told to add two LEDs to the previous assignment. Simply a red LED that blinks as the timer is counting down. Then a green LED that turns on and stays on once the countdown reaches zero. 
+### **Evidence** 
+
+<img src="https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/ezgif-1-launchpad2.gif?raw=true" width="300">
+
+##### This shows the full countdown process
+
+### **Wiring**
+
+<img src="https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/Screenshot%202023-09-08%20104811.png?raw=true" width="300">
+
+##### This wiring was very straightforward only using two leds and one resistor.
+
+### **Code**
+Find a link to the **commented code** [here](C:\Users\dhalber11\Documents\Engineering_4_Notebook\raspberry-pi\launchpad2.py)
+
+### **Reflection**
+
+As this was a simple assignment there really was nothing that went wrong. I used a straightforward variable from the previous assignment and simply added the LED code where neccesary. The LEDs did not blink exactly on time the first upload but tweaking the time.sleep in the code fixed that. 
 
 ## Onshape_Assignment_Template
 
