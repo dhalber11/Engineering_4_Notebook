@@ -53,7 +53,7 @@ For this assignment we are told to add two LEDs to the previous assignment. Simp
 ##### This wiring was very straightforward only using two leds and one resistor.
 
 ### **Code**
-Find a link to the **commented code** [here](C:\Users\dhalber11\Documents\Engineering_4_Notebook\raspberry-pi\launchpad2.py)
+Find a link to the **commented code** [here](raspberry-pi/launchpad2.py)
 
 ### **Reflection**
 
