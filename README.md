@@ -3,15 +3,16 @@
 &nbsp;
 
 ## Table of Contents
-* [Launch Pad Part 1](##Launch Pad Part 1)
-* [Launch Pad Part 2](##Launch Pad Part 2)
+* [Raspberry_Pi_Assignments](#Raspberry_Pi_Assignments)
+  * [Launch Pad Part 1](##Launch_Pad_Part_1)
+  * [Launch Pad Part 2](##Launch_Pad_Part_2)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
 
 # Raspberry_Pi_Assignments
 
-## Launch Pad Part 1
+## Launch_Pad_Part_1
 
 ### **Assignment Description**
 
@@ -36,7 +37,7 @@ This was a very simple and easy first assignment. Bringing in elements of what I
 
 
 
-## Launch Pad Part 2
+## Launch_Pad_Part_2
 
 ### **Assignment Description**
 
