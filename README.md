@@ -61,6 +61,29 @@ Find a link to the **commented code** [here](raspberry-pi/launchpad2.py)
 
 As this was a simple assignment there really was nothing that went wrong. I used a straightforward variable from the previous assignment and simply added the LED code where neccesary. The LEDs did not blink exactly on time the first upload but tweaking the time.sleep in the code fixed that. 
 
+## Launch_Pad_Part_3
+
+### **Assignment Description**
+
+For this assignment we are still building on the previous two assignments of the Launch Pad sequence. In this assignment we are attempting to add a button to start the launch sequence. A relatively simple assignment with little added wiring as we are coding in circuitpython. 
+
+### **Evidence**
+
+<img src="https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/ezgif-5-launchpad3.gif?raw=true" width="300">
+
+##### Shows the countdown initiating after a button press.
+
+### **Wiring**
+
+<img src="https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/launchpad3%20wiring.png?raw=true" width="200">
+
+##### Very straightforward wiring for this assignment.
+
+### **Code**
+
+### **Reflection**
+
+
 ## Onshape_Assignment_Template
 
 ### Assignment Description
