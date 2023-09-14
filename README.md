@@ -86,6 +86,31 @@ Find a link to the **commented** code for this asignment [here](raspberry-pi/lau
 ### **Reflection**
 This assignment was not much more difficult than the previous. Simply adding a button to start the entire "if" statement. It was all things that we have done in the past however a good refresher on some simple coding. The only issue I ran into was telling the pico that the button was being continuously pressed instead of having to hold it. Attaching a variable to the button was a simple way of doing this. 
 
+
+## Launch_Pad_Part_4
+
+### **Description**
+For this assignment in the launchpad series we are tasked to add a servo to our launch system. When the countdown reaches zero, rotate the servo 180 degrees. This is all in all a simple assignment and only requires initializing a servo and then turning it on time. 
+
+
+### **Evidence**
+
+<img src="https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/ezgif-1-launchpad4.gif?raw=true" width="300">
+
+
+### **Wiring**
+
+<img src="https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/Pic3.png?raw=true" width="200">
+
+### **Code**
+
+Find a link to the **commented** code [here](raspberry-pi/launchpad4.py)
+
+Credit for the code to [Anton](https://github.com/aweder05/Engineering_4_Notebook)
+### **Reflection**
+This assignment was a little bit more difficult for me but still very very straightforward. When I say difficult it maybe took me three more minutes than the previous. These are all very helpful assignments to relearn the basics of code. This is the final launchpad assignment as well.
+
+
 ## Onshape_Assignment_Template
 
 ### Assignment Description
