@@ -81,8 +81,10 @@ For this assignment we are still building on the previous two assignments of the
 
 ### **Code**
 
-### **Reflection**
+Find a link to the **commented** code for this asignment [here](raspberry-pi/launchpad3.py)
 
+### **Reflection**
+This assignment was not much more difficult than the previous. Simply adding a button to start the entire "if" statement. It was all things that we have done in the past however a good refresher on some simple coding. The only issue I ran into was telling the pico that the button was being continuously pressed instead of having to hold it. Attaching a variable to the button was a simple way of doing this. 
 
 ## Onshape_Assignment_Template
 
