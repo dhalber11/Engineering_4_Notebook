@@ -6,6 +6,8 @@
 * [Raspberry_Pi_Assignments](#Raspberry_Pi_Assignments)
   * [Launch Pad Part 1](#Launch_Pad_Part_1)
   * [Launch Pad Part 2](#Launch_Pad_Part_2)
+  * [Launch_Pad_Part_3](#Launch_Pad_Part_3)
+  * [Launch_Pad_Part_4](#Launch_Pad_Part_4)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
