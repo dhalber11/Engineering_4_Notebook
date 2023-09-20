@@ -26,9 +26,9 @@ while True:
 
     time.sleep(.1)
 
-    if abs(Xaccel) >= 9.2 or abs(Yaccel) >= 9.2:
-        Rled.value = True
+    if abs(Xaccel) >= 9.2 or abs(Yaccel) >= 9.2:    #takes the absolute value to not have negatives then when it is at 90
+        Rled.value = True   #turns the LED on
         time.sleep(.1) 
     else:
-        Rled.value = False
+        Rled.value = False  #turns the led off
         

@@ -130,7 +130,21 @@ Find a link to the **commented** code [here](C:\Users\dhalber11\Documents\Engine
 ### **Reflection**
 This assignment was the first that used some different language I had not known yet. As this was a new piece of equipment this was a harder assignment but still very straightforward. I used the f string to print the variables and another print of a blank space to seperate them for readability. As this was only an assignment printing something to the serial monitor it was relatively easy.
 
-##
+## Crash_Avoidance_Part_2
+### **Description**
+For this assignment we were building on the previous and simply adding an LED that turns on when the board is turned to 90 degrees. As well as adding a battery that powers the board so it can be disconnected from the board.  
+### **Evidence**
+<img src="https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/crashavoidance2.gif?raw=true" width="400">
+
+### **Wiring
+<img src="https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/crashavoidance2wiring.png?raw=true" width="300">
+
+### **Code**
+
+Find a link to the **commented** code [here]()
+
+### **Reflection**
+While I did fry a board in the pursuit of education during this assignment (RIP 2022-2023). This was a fun assignment to complete and the wiring was very straightforward. The code as well was a total of about 4 lines added onto the end of the last assignment. Simply looking at the values and turning the LED on. The fun part was wiring the LIPO to the pico and then having a mobile board for the first time. That was satisfying to see. 
 ## Onshape_Assignment_Template
 
 ### Assignment Description
