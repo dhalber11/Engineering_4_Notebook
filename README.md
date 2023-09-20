@@ -141,7 +141,7 @@ For this assignment we were building on the previous and simply adding an LED th
 
 ### **Code**
 
-Find a link to the **commented** code [here]()
+Find a link to the **commented** code [here](https://github.com/dhalber11/Engineering_4_Notebook/blob/main/raspberry-pi/crashavoidance2.py)
 
 ### **Reflection**
 While I did fry a board in the pursuit of education during this assignment (RIP 2022-2023). This was a fun assignment to complete and the wiring was very straightforward. The code as well was a total of about 4 lines added onto the end of the last assignment. Simply looking at the values and turning the LED on. The fun part was wiring the LIPO to the pico and then having a mobile board for the first time. That was satisfying to see. 
