@@ -3,8 +3,10 @@ import board
 import time
 import adafruit_mpu6050 
 import busio 
+import digitalio
 
-
+Rled = digitalio.DigitalInOut(board.GP0)
+Rled.direction = digitalio.Direction.OUTPUT
 sda_pin = board.GP14
 scl_pin = board.GP15
 i2c = busio.I2C(scl_pin, sda_pin) 
@@ -23,3 +25,10 @@ while True:
     print(" ")      # spaces out the printing to make it readable
 
     time.sleep(.1)
+
+    if abs(Xaccel) >= 9.2 or abs(Yaccel) >= 9.2:
+        Rled.value = True
+        time.sleep(.1) 
+    else:
+        Rled.value = False
+        
