@@ -8,6 +8,7 @@
   * [Launch Pad Part 2](#Launch_Pad_Part_2)
   * [Launch_Pad_Part_3](#Launch_Pad_Part_3)
   * [Launch_Pad_Part_4](#Launch_Pad_Part_4)
+  * [Crash_Introduction_Part_1](#crashintroductionpart1)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
@@ -112,7 +113,24 @@ Credit for the code to [Anton](https://github.com/aweder05/Engineering_4_Noteboo
 ### **Reflection**
 This assignment was a little bit more difficult for me but still very very straightforward. When I say difficult it maybe took me three more minutes than the previous. These are all very helpful assignments to relearn the basics of code. This is the final launchpad assignment as well.
 
+## Crash_Introduction_Part_1 
 
+### **Description**
+For this assignment we needed to simply wire an accelerometer and then print the values that come out of that accelerometer. This was a relatively straightforward assignment.
+### **Evidence**
+<img src="https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/ezgif-4-crashintroduction1.gif?raw=true" width="300">
+
+### **Wiring**
+<img src="https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/crashintro1%20wiring.png?raw=true" width="300">
+
+### **Code** 
+
+Find a link to the **commented** code [here](C:\Users\dhalber11\Documents\Engineering_4_Notebook\raspberry-pi\crashavoidance1.py)
+
+### **Reflection**
+This assignment was the first that used some different language I had not known yet. As this was a new piece of equipment this was a harder assignment but still very straightforward. I used the f string to print the variables and another print of a blank space to seperate them for readability. As this was only an assignment printing something to the serial monitor it was relatively easy.
+
+##
 ## Onshape_Assignment_Template
 
 ### Assignment Description
