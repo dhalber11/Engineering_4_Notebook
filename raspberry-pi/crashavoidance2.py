@@ -5,6 +5,8 @@ import adafruit_mpu6050
 import busio 
 import digitalio
 
+Rled = digitalio.DigitalInOut(board.GP0)
+Rled.direction = digitalio.Direction.OUTPUT
 sda_pin = board.GP14
 scl_pin = board.GP15
 i2c = busio.I2C(scl_pin, sda_pin) 
@@ -24,4 +26,9 @@ while True:
 
     time.sleep(.1)
 
-    
+    if abs(Xaccel) >= 9.2 or abs(Yaccel) >= 9.2:    #takes the absolute value to not have negatives then when it is at 90
+        Rled.value = True   #turns the LED on
+        time.sleep(.1) 
+    else:
+        Rled.value = False  #turns the led off
+        
