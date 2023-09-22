@@ -145,6 +145,26 @@ Find a link to the **commented** code [here](https://github.com/dhalber11/Engine
 
 ### **Reflection**
 While I did fry a board in the pursuit of education during this assignment (RIP 2022-2023). This was a fun assignment to complete and the wiring was very straightforward. The code as well was a total of about 4 lines added onto the end of the last assignment. Simply looking at the values and turning the LED on. The fun part was wiring the LIPO to the pico and then having a mobile board for the first time. That was satisfying to see. 
+
+## Crash_Avoidance_Part_3
+### **Description**
+This assignment builds on the previous in taking the velocities and acceleration from the accelerometer. Along with an led to indicate 90 degrees. Added onto this by an oled that displays the angular velocity constantly. 
+
+### **Evidence**
+
+<img src="https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/crashavoidance3.gif?raw=true" width="400">
+
+### **Wiring**
+
+<img src="https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/crashavoidance3wiring.png?raw=true" width="300">
+
+### **Code**
+
+Find a link to the **commented** code [here](https://github.com/dhalber11/Engineering_4_Notebook/blob/main/raspberry-pi/crashavoidance3.py)
+
+### **Reflection** 
+This was the final assignment in the crash avoidance progression. Overall I found this group of assignments very exciting as we were learning the ropes to new technology. This assignment with the oled gave me some particular issues with the code and initialization. The syntax for the oled is quite extensive to print certain things and it can be difficult. I ended up getting some hints from Graham as to a certain line that helped me to be able to display my rotation. Other than that the wiring was very straight forward and did not take that long to figure it out. 
+
 ## Onshape_Assignment_Template
 
 ### Assignment Description
