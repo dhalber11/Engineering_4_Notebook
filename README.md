@@ -9,7 +9,8 @@
   * [Launch_Pad_Part_3](#Launch_Pad_Part_3)
   * [Launch_Pad_Part_4](#Launch_Pad_Part_4)
   * [Crash_Introduction_Part_1](#crashintroductionpart1)
-  * [Crash_Avoidance_Part_2](#crashavoidancepart2)
+  * [Crash_Avoidance_Part_2](#Crash_Avoidance_Part_2)
+  * [Crash_Avoidance_Part_3](#Crash_Avoidance_Part_3)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
