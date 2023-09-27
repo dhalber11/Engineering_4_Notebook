@@ -38,39 +38,44 @@ display.show(splash)
 # text = (f"X acceleration {round(Xaccel, 3)}")
 # text_area = label.Label(terminalio.FONT, text= text, color = 0xFFFF00, x=4, y=4)
 # splash.append(text_area) 
+yay=0
+bob = altimeter.altitude
 
 while True: 
     Xaccel = mpu.acceleration[0]  #sets the X acceleration to the variable and reads it
     Yaccel = mpu.acceleration[1]
     Zaccel = mpu.acceleration[2]
 
-    AngularX = mpu.gyro[0]
-    AngularY = mpu.gyro[1]
-    AngularZ = mpu.gyro[2]
+    # AngularX = mpu.gyro[0]
+    # AngularY = mpu.gyro[1]
+    # AngularZ = mpu.gyro[2]
 
     # print(f"{mpu.acceleration}")
-    Xaccel = round(Xaccel, 3)
-    Yaccel = round(Yaccel, 3)
-    Zaccel = round(Zaccel, 3) 
+    # Xaccel = round(Xaccel, 3)
+    # Yaccel = round(Yaccel, 3)
+    # Zaccel = round(Zaccel, 3) 
+    if altimeter.altitude > bob +3:
+        yay = 1
+    else:
+        yay = 0
 
-    altitude = altimeter.altitude
-
-    text_area.text = f"Altitude: \n X:{round(altimeter.altitude,3)}"
+    text_area.text = f"Altitude: Rotation: \n X:{round(altimeter.altitude,3)}   {(round(mpu.gyro[0], 3))}  \n yay:{yay}"
 
     # print(f"X acceleration {Xaccel}")   #print all of the accelerations
     # print(f"Y Acceleration {Yaccel}")
     # print(f"Z Acceleration {Zaccel}")
     # print(" ")      # spaces out the printing to make it readable
 
-    time.sleep(.1)
+    # time.sleep(.1)
 
     
 
 
 
-    if abs(Xaccel) >= 9.2 or abs(Yaccel) >= 9.2:    #takes the absolute value to not have negatives then when it is at 90
-        Rled.value = True   #turns the LED on
-        time.sleep(.1) 
+    if (abs(Xaccel) >= 9.2 or abs(Yaccel) >= 9.2) and not altimeter.altitude > bob +3 :    #takes the absolute value to not have negatives then when it is at 90
+        Rled.value = True 
+          #turns the LED on
+        # time.sleep(.1) 
     else:
         Rled.value = False  #turns the led off
         
