@@ -167,19 +167,27 @@ Find a link to the **commented** code [here](https://github.com/dhalber11/Engine
 ### **Reflection** 
 This was the final assignment in the crash avoidance progression. Overall I found this group of assignments very exciting as we were learning the ropes to new technology. This assignment with the oled gave me some particular issues with the code and initialization. The syntax for the oled is quite extensive to print certain things and it can be difficult. I ended up getting some hints from Graham as to a certain line that helped me to be able to display my rotation. Other than that the wiring was very straight forward and did not take that long to figure it out. 
 
-## Onshape_Assignment_Template
+## FEA Beam
 
 ### Assignment Description
+For this assignment we needed to design a beam to hold the most weight possible. The beam fails if it either bends over 35 mm or breaks. The requirements are as follows.
+* The beam must use the provided attachment block with no modifications. 
+* The beam with the attachment block must be able to fully engage with the holder
+* The beam must use the example eye bolt mounting geometry
+* The center of the eyebolt hole must be 180 mm from the front face of the attachment block (in a direction perpendicular to the front face)
+* No part of the beam may extend below the bottom face of the attachment block
+* All vertical angles must be >= 45° measured relative to the horizontal plane (no overhangs)
+* The beam must be PLA material
+* **The entire beam, including attachment block, must weigh <= 13 grams**
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
 
 ### Part Link 
 
-[Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
+[Link to the Onshape document](https://cvilleschools.onshape.com/documents/5ca195b929dce9b9f5de0c38/w/484c080f78991bb9985dcd6a/e/202c4b844babd7b88e7d7022?renderMode=0&uiState=651ad471654b7d4777a38ffc). 
 
 ### Part Image
-
-Take a nice screenshot of your Onshape document. 
+<img src="https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/FEA%20Beam%202.png?raw=true" >
+<img src="https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/FEA%20Beam.png?raw=true" >
 
 ### Reflection
 
