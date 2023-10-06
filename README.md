@@ -211,7 +211,7 @@ We are told to run simulation tests on our original beam pictured above. Judging
 ##### Simulation of the displacement
 
 ### Reflection
-After testing our beams using the simulation feature in onshape. We were tasked with changing and altering the design to improve the effectiveness of the beam. However the altering is covered in the next part of this assignment. To learn the simulation in Onshape we used an Onshape tutorial that worked through the whole process. This really helped us understand how to utilize the simulation to get the results needed. These results are what help us improve on our desigh in the nect part of this assignment. 
+After testing our beams using the simulation feature in onshape. We were tasked with changing and altering the design to improve the effectiveness of the beam. However the altering is covered in the next part of this assignment. To learn the simulation in Onshape we used an Onshape tutorial that worked through the whole process. This really helped us understand how to utilize the simulation to get the results needed. These results are what help us improve on our design in the nect part of this assignment. The stress on the very base of the beam  is much higher on the edges. This is going to be fixed by tapering the beam out to include all of the attachment block so as to add more material and reinforce the beam. However the inner circles of our design are working very well and holding the stress of the beam quite well. 
 
 ## Media Test 
 
