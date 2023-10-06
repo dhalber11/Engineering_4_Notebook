@@ -195,7 +195,26 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 
 &nbsp;
 
-## Media Test
+## FEA Beam V.2
+
+### Description
+We are told to run simulation tests on our original beam pictured above. Judging on how it performs we will then adjust the design of our beam as it requires and continue to test. This is all the process of testing and tweaking. The same criteria apply for the above assignment. 
+### Part Link 
+[Link to the Onshape document](https://cvilleschools.onshape.com/documents/5ca195b929dce9b9f5de0c38/w/484c080f78991bb9985dcd6a/e/202c4b844babd7b88e7d7022?renderMode=0&uiState=651ad471654b7d4777a38ffc). 
+
+
+### Part Image
+<img src="https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/Assembly%201%20(1).png?raw=true" >
+
+##### Simulation of the stress
+<img src="https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/Assembly%201.png?raw=true"  >
+
+##### Simulation of the displacement
+
+### Reflection
+After testing our beams using the simulation feature in onshape. We were tasked with changing and altering the design to improve the effectiveness of the beam. However the altering is covered in the next part of this assignment. To learn the simulation in Onshape we used an Onshape tutorial that worked through the whole process. This really helped us understand how to utilize the simulation to get the results needed. These results are what help us improve on our desigh in the nect part of this assignment. 
+
+## Media Test 
 
 Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and gif you want!
 
