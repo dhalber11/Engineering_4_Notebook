@@ -190,8 +190,7 @@ For this assignment we needed to design a beam to hold the most weight possible.
 <img src="https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/FEA%20Beam.png?raw=true" >
 
 ### Reflection
-
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+For this assignment I was working with Mathew Colvin. We decided to split up and find different ideas and then bring those together and compare to see which is better. I started trying to find ideas with triangles and the classic steel I beam design, however it did not work out. Mainly because of the constraints of overhangs and angles being no more than 45 degrees. I was having dificulty with linear patterns and getting nowhere near to the required weight of 13 grams. However Mathew found a solution involving circles with a much more organic design. This was not only visually appealing but it was easily less than 13 grams being only around 11.8-12.4 as we tweaked it near the end. It ended up coming out to 12.89 as we added as much as we could to improve stability.
 
 &nbsp;
 
