@@ -213,6 +213,21 @@ We are told to run simulation tests on our original beam pictured above. Judging
 ### Reflection
 After testing our beams using the simulation feature in onshape. We were tasked with changing and altering the design to improve the effectiveness of the beam. However the altering is covered in the next part of this assignment. To learn the simulation in Onshape we used an Onshape tutorial that worked through the whole process. This really helped us understand how to utilize the simulation to get the results needed. These results are what help us improve on our design in the nect part of this assignment. The stress on the very base of the beam  is much higher on the edges. This is going to be fixed by tapering the beam out to include all of the attachment block so as to add more material and reinforce the beam. However the inner circles of our design are working very well and holding the stress of the beam quite well. 
 
+## FEA Beam V.3
+### Description
+This part of the beam assignment is where we used the information from the previouse simulations of our beams and improved upon the design. All of the same criteria from the previous assignment still apply here.
+
+### Part Link
+[Link to the Onshape document](https://cvilleschools.onshape.com/documents/5ca195b929dce9b9f5de0c38/w/484c080f78991bb9985dcd6a/e/202c4b844babd7b88e7d7022?renderMode=0&uiState=651ad471654b7d4777a38ffc). 
+
+### Part Image 
+<img src="https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/v2.png?raw=true" >
+
+
+<img src="https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/v2%20(1).png?raw=true"  >
+
+### Reflection 
+This reflection is being written after testing this beam for the max weight it can hold. This design did not test drastically better in the simulations than our first design however there were some improvements. This design with the tapering was not only to reduce weight but to spread out the stress areas to try and decrease breaking. However the final product was very thin as the holes were very close together. It did not hold nearly as much weight as expected and deflected before it broke. In the end we realized that the amount of material taken out of the main body severely weakened the beam. We should have tapered the entire body of the beam instead of cutting through it. 
 ## Media Test 
 
 Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and gif you want!
