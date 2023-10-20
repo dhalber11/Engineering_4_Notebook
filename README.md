@@ -194,7 +194,7 @@ For this assignment I was working with Mathew Colvin. We decided to split up and
 
 &nbsp;
 
-## FEA Beam V.2
+## FEA Beam V.3
 
 ### Description
 We are told to run simulation tests on our original beam pictured above. Judging on how it performs we will then adjust the design of our beam as it requires and continue to test. This is all the process of testing and tweaking. The same criteria apply for the above assignment. 
@@ -213,7 +213,7 @@ We are told to run simulation tests on our original beam pictured above. Judging
 ### Reflection
 After testing our beams using the simulation feature in onshape. We were tasked with changing and altering the design to improve the effectiveness of the beam. However the altering is covered in the next part of this assignment. To learn the simulation in Onshape we used an Onshape tutorial that worked through the whole process. This really helped us understand how to utilize the simulation to get the results needed. These results are what help us improve on our design in the nect part of this assignment. The stress on the very base of the beam  is much higher on the edges. This is going to be fixed by tapering the beam out to include all of the attachment block so as to add more material and reinforce the beam. However the inner circles of our design are working very well and holding the stress of the beam quite well. 
 
-## FEA Beam V.3
+## FEA Beam V.4
 ### Description
 This part of the beam assignment is where we used the information from the previouse simulations of our beams and improved upon the design. All of the same criteria from the previous assignment still apply here.
 
