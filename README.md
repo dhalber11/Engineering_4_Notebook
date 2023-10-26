@@ -177,12 +177,12 @@ The code must ask for the user to input a set of three coordinates in (x,y) form
 
 
 ### Code
-Credit to the code goes to [Grant](https://github.com/ggastin30/Engineering_4_Notebook/blob/main/raspberry-pi/Landing_Area_1.py). Find a link to my code [here]()
+Credit to the code goes to [Grant](https://github.com/ggastin30/Engineering_4_Notebook/blob/main/raspberry-pi/Landing_Area_1.py). Find a link to my code [here](https://github.com/dhalber11/Engineering_4_Notebook/blob/main/raspberry-pi/LandingArea1.py)
 
 ### Wiring 
-
+The wiring for this assignment was very straightforward and only required the pico itself. 
 ### Reflection
-
+This assignment was a very difficult one for many reasons. Not only were the variables and floats new to me but they are also quite complicated when used in functions. Defining functions is the most important part of this assignment and just below that is the process of calling them. Both are very difficult and require knowledge of the process before doing it, which I did not have. 
 ## FEA Beam
 
 ### Assignment Description
