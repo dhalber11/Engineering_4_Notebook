@@ -167,6 +167,22 @@ Find a link to the **commented** code [here](https://github.com/dhalber11/Engine
 ### **Reflection** 
 This was the final assignment in the crash avoidance progression. Overall I found this group of assignments very exciting as we were learning the ropes to new technology. This assignment with the oled gave me some particular issues with the code and initialization. The syntax for the oled is quite extensive to print certain things and it can be difficult. I ended up getting some hints from Graham as to a certain line that helped me to be able to display my rotation. Other than that the wiring was very straight forward and did not take that long to figure it out. 
 
+## Landing_Area_Part1
+### Description
+The code must ask for the user to input a set of three coordinates in (x,y) format. The triangle area must be determined using a function. If the user inputs coordinates incorrectly (letters or improper format) the code should return to the input stage, it should not throw an error or exit the script. The triangle area must be printed to the screen in this format: “The area of the triangle with vertices (x,y), (x,y), (x,y) is {area} square km. The code must return to the input stage after printing the area, and wait for user input.
+
+
+### Evidence
+<img src= "https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/LandingArea1.gif?raw=true" >
+
+
+### Code
+Credit to the code goes to [Grant](https://github.com/ggastin30/Engineering_4_Notebook/blob/main/raspberry-pi/Landing_Area_1.py). Find a link to my code [here]()
+
+### Wiring 
+
+### Reflection
+
 ## FEA Beam
 
 ### Assignment Description
