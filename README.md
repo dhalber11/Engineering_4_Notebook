@@ -183,6 +183,21 @@ Credit to the code goes to [Grant](https://github.com/ggastin30/Engineering_4_No
 The wiring for this assignment was very straightforward and only required the pico itself. 
 ### Reflection
 This assignment was a very difficult one for many reasons. Not only were the variables and floats new to me but they are also quite complicated when used in functions. Defining functions is the most important part of this assignment and just below that is the process of calling them. Both are very difficult and require knowledge of the process before doing it, which I did not have. 
+
+## Landing_Area_Part2
+
+### Description
+This assignment takes the same set of requirements that are found in Landing_Area_Part1 and adds to it by requiring an OLED display. We are tasked to display the triangle on a grid with the points that were given. As well as displaying the area above the triangle. 
+### Evidence
+<img src= "https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/My%20Project.gif?raw=true" >
+
+### Code
+Find a link to the **commented** code [here](C:\Users\dhalber11\Documents\Engineering_4_Notebook\raspberry-pi\LandingArea2.py)
+### Wiring 
+<img src= "https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/LandingArea2%20wiring.png?raw=true">
+
+### Reflection
+This assignment was much easier compared to the previous. This is because the code we used for this part of the assignment was very straightforward and only added a few lines in total to complete the assignment. On top of that, the code I used to print to the OLED was used in many previous assignments making it much easier to understand and use in this assignment. This was a fun assignment as well seeing the triangles print on the OLED and it truly shows the power of these screens. 
 ## FEA Beam
 
 ### Assignment Description
