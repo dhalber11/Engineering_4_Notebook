@@ -1,7 +1,5 @@
 #type: ignore
 import board
-import digitalio
-
 
 # Dictionary representing the morse code chart
 MORSE_CODE = { 'A':'.-', 'B':'-...',
@@ -19,11 +17,18 @@ MORSE_CODE = { 'A':'.-', 'B':'-...',
     '0':'-----', ', ':'--..--', '.':'.-.-.-',
     '?':'..--..', '/':'-..-.', '-':'-....-',
     '(':'-.--.', ')':'-.--.-', ' ':'/'}
+    FLASHES = {'.':'DOT', '-':'DASH'}
+
+modifier = 0.25
+dot_time = 1*modifier
+dash_time = 3*modifier
+between_taps = 1*modifier
+between_letters = 3*modifier
+between_words = 7*modifier
+
 
 Gled = digitalio.DigitalInOut(board.GP0)
 Gled.direction = digitalio.Direction.OUTPUT
-
-
 
 while True: 
     #print("Enter your Morse Code Message, or press -q to quit")
@@ -33,5 +38,5 @@ while True:
         break                   # stop the program
     Up_text = Text.upper()      # turns the input to the same case
     for letter in Up_text:      # Takes each letter in the string and translates them one by one
-        print(MORSE_CODE [f"{letter}"], end=" ")        # Print the output, "end =" puts them side by side
+        print(MORSE_CODE [f"{letter}"], end=" ")       # Print the output, "end =" puts them side by side
         
