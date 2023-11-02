@@ -198,6 +198,26 @@ Find a link to the **commented** code [here](C:\Users\dhalber11\Documents\Engine
 
 ### Reflection
 This assignment was much easier compared to the previous. This is because the code we used for this part of the assignment was very straightforward and only added a few lines in total to complete the assignment. On top of that, the code I used to print to the OLED was used in many previous assignments making it much easier to understand and use in this assignment. This was a fun assignment as well seeing the triangles print on the OLED and it truly shows the power of these screens. 
+
+## Morse_Code(-- --- .-. ... . / -.-. --- -.. .)
+
+### Description
+..-. --- .-. / - .... .. ... / .- ... ... .. --. -. -- . -. - / .-- . / .- .-. . / - .- ... -.- . -.. / .-- .. - .... / -- .- -.- .. -. --. / .- / .--. .-. --- --. .-. .- -- / - .... .- - / - .-. .- -. ... .-.. .- - . ... / - . -..- - / .. -. - --- / -- --- .-. ... . / -.-. --- -.. . .-.-.- / - .... . / .--. .-. --- --. .-. .- -- / -- ..- ... - / - .... . -. / --.- ..- .. - / .. ..-. / - .... . / ..- ... . .-. / .. -. .--. ..- - ... / -....- --.- .-.-.- 
+(For this assignment we are tasked with making a program that translates text into morse code. The program must then quit if the user inputs -q.)
+
+### Evidence
+<img src= "https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/Morsecode.gif?raw=true">
+
+### Code
+Find a link to the **commented** code [here](C:\Users\dhalber11\Documents\Engineering_4_Notebook\raspberry-pi\morse_code.py)
+
+### Wiring 
+
+There was no wiring for this assignment. All that was needed was the PICO.
+
+### Reflection
+This assignment was very easy and really fun to have completed. We used the dictionary to tell the board what to translate the letters into. This was referenced using strings and a for function to call each letter individually. This worked very quickly and the only difficult part to find out was the Up_Text value that changed all of the letters to uppercase. This is done to not have to worry about changing case as a variable to deal with. 
+
 ## FEA Beam
 
 ### Assignment Description

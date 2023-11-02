@@ -20,11 +20,11 @@ MORSE_CODE = { 'A':'.-', 'B':'-...',
 
 while True: 
     #print("Enter your Morse Code Message, or press -q to quit")
-    Text = input("Enter your Morse Code Message, or press -q to quit:" )
-    if Text == "-q":
-        ("Message ended")
-        break
-    Up_text = Text.upper()
-    for letter in Up_text: 
-        print(MORSE_CODE [f"{letter}"], end=" ")
+    Text = input("Enter your Morse Code Message, or press -q to quit:" )    #Ask for the users input
+    if Text == "-q":    #if the kill code is entered
+        print("Message ended")
+        break                   # stop the program
+    Up_text = Text.upper()      # turns the input to the same case
+    for letter in Up_text:      # Takes each letter in the string and translates them one by one
+        print(MORSE_CODE [f"{letter}"], end=" ")        # Print the output, "end =" puts them side by side
         
