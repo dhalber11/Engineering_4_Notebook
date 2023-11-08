@@ -218,6 +218,23 @@ There was no wiring for this assignment. All that was needed was the PICO.
 ### Reflection
 This assignment was very easy and really fun to have completed. We used the dictionary to tell the board what to translate the letters into. This was referenced using strings and a for function to call each letter individually. This worked very quickly and the only difficult part to find out was the Up_Text value that changed all of the letters to uppercase. This is done to not have to worry about changing case as a variable to deal with. 
 
+## Morse_Code_2
+
+### Description
+For this assignment we take the previous code from Morse code part 1 and translate our dots and dashes into flashes on an led of varying lengths. The task must quit if the user enters -q.
+
+### Evidence 
+<img src= "https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/morsecode2.gif?raw=true">
+
+### Wiring 
+<img src= "https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/MorseCode2.png?raw=true" width = 200>
+
+### Code
+Find a link to the commented code [here](C:\Users\dhalber11\Documents\Engineering_4_Notebook\raspberry-pi\morse_code_2.py)
+
+### Reflection
+This assignment was an interesting one for me. I was hesitant to code in the way I did as it felt very similar to simply hardcoding, which is a big no for me. However this was a simple way to define what the led should do for each dot or dash. The code was straightforward as it was simply ifs and elifs for the majority of it. The only difficult part was finding a way to call the correct part of the message and print that. Overall a fun assignment and it is great to be able to input messages and get an output just like that.
+
 ## FEA Beam
 
 ### Assignment Description
