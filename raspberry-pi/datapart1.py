@@ -16,7 +16,7 @@ i2c = busio.I2C(scl_pin, sda_pin)
 mpu = adafruit_mpu6050.MPU6050(i2c)     #initialize the accelerometer
 
 tilt = 0 
-with open("/data.csv", "a") as datalog:
+with open("/data.csv", "a") as datalog: # all a loop within the reading of the data
     while True: 
         time_elapsed = time.monotonic()     #sets time to a variable
         Xaccel = mpu.acceleration[0]  #sets the X acceleration to the variable
@@ -33,16 +33,20 @@ with open("/data.csv", "a") as datalog:
             tilt = 0 
             
 
-        datalog.write(f"{Xaccel}, {Yaccel}, {Zaccel}, {time_elapsed}, {tilt}")
+        datalog.write(f"{Xaccel}, {Yaccel}, {Zaccel}, {time_elapsed}, {tilt}\n")    #take the values of all of the variables
         Gled.value = True 
         time.sleep(.5)
         Gled.value = False
-        # print(f"X acceleration {Xaccel}")   #print all of the accelerations
-        # print(f"Y Acceleration {Yaccel}")
-        # print(f"Z Acceleration {Zaccel}")
-        # print(" ")      # spaces out the printing to make it readable
 
+        print(f"X acceleration {Xaccel}")   #print all of the accelerations
+        print(f"Y Acceleration {Yaccel}")
+        print(f"Z Acceleration {Zaccel}")
+        print(" ")      # spaces out the printing to make it readable
+        print(time_elapsed)
+        print(" ")
+        print(tilt)
 
+        datalog.flush()
         time.sleep(.1)
 
    

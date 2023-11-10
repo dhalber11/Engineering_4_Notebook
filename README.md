@@ -235,6 +235,31 @@ Find a link to the commented code [here](C:\Users\dhalber11\Documents\Engineerin
 ### Reflection
 This assignment was an interesting one for me. I was hesitant to code in the way I did as it felt very similar to simply hardcoding, which is a big no for me. However this was a simple way to define what the led should do for each dot or dash. The code was straightforward as it was simply ifs and elifs for the majority of it. The only difficult part was finding a way to call the correct part of the message and print that. Overall a fun assignment and it is great to be able to input messages and get an output just like that.
 
+## Data_Part1(Saving)
+### Description
+For this assignment here are the requirements:
+* Your Pico must operate in “headless” mode – unplugged from the computer with a battery
+* An LED must turn on when the Pico is tilted (same as Crash Avoidance Part 2)
+* Your Pico must record time, X, Y, Z acceleration data, and whether or not the Pico was tilted
+* You must save this information to the Pico’s onboard storage
+* You must blink the onboard LED every time you save data
+* You must be able to retrieve this data when plugged back into the computer
+
+
+### Evidence
+<img src= https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/datasaving.gif?raw=true" width =400>
+
+Additionally there is a link to my data [here](https://docs.google.com/spreadsheets/d/1b9W1X0muuWlZrGeX7A1UQPyReChySrfKmhwkiQL8UQg/edit?usp=sharing)
+
+### Wiring
+<img src="https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/crashavoidance2wiring.png?raw=true" width="300">
+
+##### This wiring is the same as Crash_Avoidance_2. Simply add a switch running from ground to a GP pin of your choice.
+
+### Code 
+Find a link to the commented code [here](C:\Users\dhalber11\Documents\Engineering_4_Notebook\raspberry-pi\datapart1.py)
+### Reflection
+
 ## FEA Beam
 
 ### Assignment Description
