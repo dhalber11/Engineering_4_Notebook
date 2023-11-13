@@ -247,7 +247,7 @@ For this assignment here are the requirements:
 
 
 ### Evidence
-<img src= https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/datasaving.gif?raw=true" width =400>
+<img src= "https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/datasaving.gif?raw=true" width =400>
 
 Additionally there is a link to my data [here](https://docs.google.com/spreadsheets/d/1b9W1X0muuWlZrGeX7A1UQPyReChySrfKmhwkiQL8UQg/edit?usp=sharing)
 
@@ -259,7 +259,7 @@ Additionally there is a link to my data [here](https://docs.google.com/spreadshe
 ### Code 
 Find a link to the commented code [here](C:\Users\dhalber11\Documents\Engineering_4_Notebook\raspberry-pi\datapart1.py)
 ### Reflection
-
+This assignment was very interesting to complete as unlike most assignments, when you upload code you get an output that ensures your code is working or its broken. However for this assignment that was not the case as each time you would put the pico in code mode there was an error that was thrown each time you uploaded code. You could only check the pico was working after switching back to data mode and checking the results in the data sheets. This was a fun assignment after that however as seeing the info that was written from the board straight into a spreadsheet was very interesting. It was also good to see how simple it is to find data during flight for future reference during our Pi in the sky project.
 ## FEA Beam
 
 ### Assignment Description
