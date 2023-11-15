@@ -265,6 +265,23 @@ Additionally there is a link to my data [here](https://docs.google.com/spreadshe
 Find a link to the commented code [here](C:\Users\dhalber11\Documents\Engineering_4_Notebook\raspberry-pi\datapart1.py)
 ### Reflection
 This assignment was very interesting to complete as unlike most assignments, when you upload code you get an output that ensures your code is working or its broken. However for this assignment that was not the case as each time you would put the pico in code mode there was an error that was thrown each time you uploaded code. You could only check the pico was working after switching back to data mode and checking the results in the data sheets. This was a fun assignment after that however as seeing the info that was written from the board straight into a spreadsheet was very interesting. It was also good to see how simple it is to find data during flight for future reference during our Pi in the sky project.
+
+## Data Part 2(Analysis)
+### Description
+This assignment was to graph the data that we collected in the previous assignment to help to analyze it and understand what it was saying.
+* Create a line graph with time on the X axis and acceleration on the Y axis. X, Y, and Z accelerations must be present on the same plot.
+* Create a chart with time on the X axis and whether or not the Pico was tilted on the Y axis. 
+* Title each graph, and label each axis including units. 
+
+
+### Evidence
+<img src= "https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/Accelerationgraph.png?raw=true">
+<img src= "https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/Tiltgraph.png?raw=true">
+### Code and Wiring 
+There was no code or wiring for this assignment.
+
+### Reflection
+While this was a very simple assignment it was a good one to learn before attempting the Pi in the sky project. As we will be doing a lot of analyzing data in the future with our projects. I have never really learned anything in google sheets or any spreadsheet software so this was helpful to understand. 
 ## FEA Beam
 
 ### Assignment Description
