@@ -197,7 +197,7 @@ This assignment takes the same set of requirements that are found in Landing_Are
 <img src= "https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/My%20Project.gif?raw=true" >
 
 ### Code
-Find a link to the **commented** code  [here](C:\Users\dhalber11\Documents\Engineering_4_Notebook\raspberry-pi\LandingArea2.py) 
+Find a link to the **commented** code [here](raspberry-pi/LandingArea2.py) 
 ### Wiring 
 <img src= "https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/LandingArea2%20wiring.png?raw=true">
 
@@ -214,7 +214,7 @@ This assignment was much easier compared to the previous. This is because the co
 <img src= "https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/Morsecode.gif?raw=true">
 
 ### Code
-Find a link to the **commented** code [here](C:\Users\dhalber11\Documents\Engineering_4_Notebook\raspberry-pi\morse_code.py)
+Find a link to the **commented** code [here](raspberry-pi/morse_code.py)
 
 ### Wiring 
 
@@ -235,7 +235,7 @@ For this assignment we take the previous code from Morse code part 1 and transla
 <img src= "https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/MorseCode2.png?raw=true" width = 200>
 
 ### Code
-Find a link to the commented code [here](C:\Users\dhalber11\Documents\Engineering_4_Notebook\raspberry-pi\morse_code_2.py)
+Find a link to the commented code [here](raspberry-pi/morse_code_2.py)
 
 ### Reflection
 This assignment was an interesting one for me. I was hesitant to code in the way I did as it felt very similar to simply hardcoding, which is a big no for me. However this was a simple way to define what the led should do for each dot or dash. The code was straightforward as it was simply ifs and elifs for the majority of it. The only difficult part was finding a way to call the correct part of the message and print that. Overall a fun assignment and it is great to be able to input messages and get an output just like that.
@@ -262,7 +262,7 @@ Additionally there is a link to my data [here](https://docs.google.com/spreadshe
 ##### This wiring is the same as Crash_Avoidance_2. Simply add a switch running from ground to a GP pin of your choice.
 
 ### Code 
-Find a link to the commented code [here](C:\Users\dhalber11\Documents\Engineering_4_Notebook\raspberry-pi\datapart1.py)
+Find a link to the commented code [here](raspberry-pi/datapart1.py)
 ### Reflection
 This assignment was very interesting to complete as unlike most assignments, when you upload code you get an output that ensures your code is working or its broken. However for this assignment that was not the case as each time you would put the pico in code mode there was an error that was thrown each time you uploaded code. You could only check the pico was working after switching back to data mode and checking the results in the data sheets. This was a fun assignment after that however as seeing the info that was written from the board straight into a spreadsheet was very interesting. It was also good to see how simple it is to find data during flight for future reference during our Pi in the sky project.
 
