@@ -197,7 +197,7 @@ This assignment takes the same set of requirements that are found in Landing_Are
 <img src= "https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/My%20Project.gif?raw=true" >
 
 ### Code
-Find a link to the **commented** code [here](C:\Users\dhalber11\Documents\Engineering_4_Notebook\raspberry-pi\LandingArea2.py)
+Find a link to the **commented** code  [here](C:\Users\dhalber11\Documents\Engineering_4_Notebook\raspberry-pi\LandingArea2.py) 
 ### Wiring 
 <img src= "https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/LandingArea2%20wiring.png?raw=true">
 
