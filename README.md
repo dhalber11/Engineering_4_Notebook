@@ -257,7 +257,7 @@ For this assignment here are the requirements:
 Additionally there is a link to my data [here](https://docs.google.com/spreadsheets/d/1b9W1X0muuWlZrGeX7A1UQPyReChySrfKmhwkiQL8UQg/edit?usp=sharing)
 
 ### Wiring
-<img src="https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/crashavoidance2wiring.png?raw=true" width="300">
+<img src="https://github.com/dhalber11/Engineering_4_Notebook/blob/main/images/datapart1.png?raw=true" width="300">
 
 ##### This wiring is the same as Crash_Avoidance_2. Simply add a switch running from ground to a GP pin of your choice.
 
